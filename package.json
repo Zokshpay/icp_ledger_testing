@@ -1,0 +1,18 @@
+{
+  "name": "icp_ledger_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@dfinity/identity-secp256k1": "0.21.4",
+    "@dfinity/ledger-icp": "2.1.2",
+    "@dfinity/nns-proto": "1.0.1",
+    "@dfinity/utils": "2.1.0"
+  }
+}
